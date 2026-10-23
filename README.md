@@ -22,4 +22,3 @@ Desarrollar habilidades prácticas en seguridad informática y acceder a un pues
 
 ## Plataformas de práctica
 - TryHackMe
-- 
