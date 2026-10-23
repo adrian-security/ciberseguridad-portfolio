@@ -18,8 +18,8 @@ Desarrollar habilidades prácticas en seguridad informática y acceder a un pues
 - Cisco – Introduction to Cybersecurity  
 - Cisco – Networking Básico
 - Cisco – Network Devices and Initial Configuration (en curso) 
-- Google Cybersecurity Professional Certificate (en curso)
+- Google Cybersecurity Professional Certificate 
 
 ## Plataformas de práctica
 - TryHackMe
-- Hack The Box Academy
+- 
