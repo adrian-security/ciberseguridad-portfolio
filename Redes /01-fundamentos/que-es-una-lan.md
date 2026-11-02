@@ -1,5 +1,5 @@
 # ¿Qué es una LAN?
-El termino LAN corresponde a Local Area Network (red de area local) que hace referencia a la red que conecta dispositivos dentro de una zona geográfica determinada. 
+El termino **LAN** corresponde a Local Area Network (red de area local) que hace referencia a la red que conecta dispositivos dentro de una zona geográfica determinada. 
 
 Un **ejemplo** de LAN es una vivienda, una oficina o un colegio.
 
