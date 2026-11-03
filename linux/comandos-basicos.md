@@ -125,6 +125,47 @@ grep -i "error" registro.txt
 
 Es especialmente útil en ciberseguridad para analizar registros (logs) y localizar posibles errores o actividades sospechosas.
 
+## 12. find 
+Permite buscar archivos y directorios dentro de una ubicación determinada.
+
+### Ejemplo para buscar archivo: 
+
+find ~ -name "notas.txt"
+
+Busca un archivo llamado notas.txt dentro del directorio personal y sus subdirectorios.
+
+### Ejemplo para buscar archivos por extensión:
+
+find . -name "*.txt"
+
+Busca exclusivamente archivos con extensión .txt.
+
+### Ejemplo para buscar únicamente archivos:
+
+find . -type f -name "*.txt"
+
+Busca exclusivamente archivos con extensión .txt.
+
+### Ejemplo para buscar directorios:
+
+find ~ -type d -name "Logs"
+
+Busca directorios llamados Logs dentro del directorio personal.
+
+#### Elementos importantes:
+
+find: permite buscar archivos y dirtectorios
+.: representas el directorio actual.
+~: representa el directorio personal.
+-name: permite buscar por nombre.
+-type f: busca únicamente archivos.
+-type d: busca únicamente directorios.
+*: comodín que representa cualquier conjunto de caracteres.
+
+#### Aplicación en ciberseguridad
+Es útil para localizar archivos de configuración, registros (logs), scripts y otros archivos que pueden ser necesarios durante el análisis de un sistema. 
+
+
 ## Lo que he aprendido
 He practicado estos comandos en mi máquina virtual Ubuntu.
 Estos comandos me permiten moverme por Linux, gestionar archivos y carpetas, consultar información y buscar contenido dentro de archivos.
