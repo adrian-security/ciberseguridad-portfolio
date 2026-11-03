@@ -32,7 +32,7 @@ mkdir Practicas
 ## 6. touch
 Permite crear un archivo vacío o actualizar la fecha de modificación de un archivo existente.
 
-Ejemplo:
+### Ejemplo:
 
 touch notas.txt
 
@@ -41,7 +41,7 @@ Crea un archivo llamado notas.txt.
 ## 7. cp
 Copia archivos o directorios de una ubicación a otra.
 
-Ejemplo:
+### Ejemplo:
 
 cp notas.txt copia.txt
 
@@ -54,25 +54,25 @@ cp -r Practicas Practicas_copia
 ## 8. rm
 Permite eliminar archivos o directorios.
 
-Ejemplo para eliminar un archivo:
+### Ejemplo para eliminar un archivo:
 
 rm notas.txt
 
 Elimina el archivo llamado notas.txt.
 
-Ejemplo para eliminar varios archivos:
+### Ejemplo para eliminar varios archivos:
 
 rm archivo1.txt archivo2.txt
 
 Elimina los dos archivos indicados.
 
-Ejemplo para eliminar una carpeta con contenido:
+### Ejemplo para eliminar una carpeta con contenido:
 
 rm -r Practicas
 
 Elimina la carpeta Practicas y todos los archivos y subcarpetas que contiene.
 
-Ejemplo para preguntar antes de eliminar:
+### Ejemplo para preguntar antes de eliminar:
 
 rm -i notas.txt
 
@@ -92,11 +92,11 @@ rm -ri: solicita confirmación al eliminar los elementos de una carpeta.
 ## 9. mv
 Mueve archivos o directorios, y también se utiliza para renombrarlos.
 
-Ejemplo para cambiar el nombre:
+### Ejemplo para cambiar el nombre:
 
 mv notas.txt apuntes.txt
 
-Ejemplo para mover un archivo:
+### Ejemplo para mover un archivo:
 
 mv apuntes.txt Documentos/
 
@@ -104,7 +104,7 @@ mv apuntes.txt Documentos/
 ## 10. cat
 Muestra el contenido de un archivo en la terminal o concatena varios archivos.
 
-Ejemplo:
+### Ejemplo:
 
 cat notas.txt
 
@@ -113,7 +113,7 @@ Es útil para consultar rápidamente archivos de configuración, registros y doc
 ## 11. grep
 Busca patrones de texto o cadenas específicas dentro de archivos o en la salida de otros comandos.
 
-Ejemplo:
+### Ejemplo:
 
 grep "error" registro.txt
 
