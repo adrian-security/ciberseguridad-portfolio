@@ -14,7 +14,7 @@ Muestra el nombre del usuario actual.
 ## 4. cd
 Permite cambiar de directorio.
 
-Ejemplo:
+### Ejemplo:
 
 cd Documentos
 
@@ -25,7 +25,7 @@ cd ..
 ## 5. mkdir
 Permite crear una carpeta.
 
-Ejemplo:
+### Ejemplo:
 
 mkdir Practicas
 
