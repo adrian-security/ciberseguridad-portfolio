@@ -78,7 +78,7 @@ rm -i notas.txt
 
 Solicita confirmación antes de eliminar el archivo.
 
-Importante: el comando rm elimina archivos y carpetas. Hay que utilizarlo con cuidado porque Linux no suele enviar estos elementos a la papelera.
+#### Importante: el comando rm elimina archivos y carpetas. Hay que utilizarlo con cuidado porque Linux no suele enviar estos elementos a la papelera.
 
 rm: elimina archivos.
 
