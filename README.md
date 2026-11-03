@@ -15,10 +15,11 @@ Desarrollar habilidades prácticas en seguridad informática y acceder a un pues
 - OSINT básico aplicado a la seguridad
 
 ## Certificaciones y cursos
-- Cisco – Introducción a la ciberseguridad
-- Cisco – Networking Básico
-- Cisco – Network Devices and Initial Configuration (en curso) 
 - Google Certificado Profesional de Ciberseguridad
+- Cisco – Introducción a la ciberseguridad
+- Cisco – Conceptos básicos de redes
+- Cisco – Dispositivos de Red y Configuración Inicial  (en curso) 
+
 
 ## Plataformas de práctica
 - TryHackMe
