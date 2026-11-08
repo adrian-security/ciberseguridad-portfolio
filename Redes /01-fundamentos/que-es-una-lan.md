@@ -7,6 +7,7 @@ El termino **LAN** corresponde a Local Area Network (red de area local) que hace
 Un **ejemplo** de LAN es una vivienda, una oficina o un colegio.
 
 **Ejemplo práctico:** tu casa
+
 Imagina que tienes:
 Un ordenador.
 Una televisión.
