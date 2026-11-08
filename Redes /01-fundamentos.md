@@ -1,6 +1,6 @@
 # Fundamentos
 
-![Ejemplo red informática](https://ibb.co/zV2sYZRJ)
+(https://ibb.co/yBXbb5n4)
 
 ## ¿Qué es una red informática?
 
