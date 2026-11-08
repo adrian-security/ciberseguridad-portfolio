@@ -1,4 +1,7 @@
 # ¿Qué es una LAN?
+
+[![Ejemplo LAN](https://i.postimg.cc/rwQ4tWqx/52068E18-4F9C-40B5-8EFB-2363AAE73447.jpg)](https://postimg.cc/BjPbrjLn)
+
 El termino **LAN** corresponde a Local Area Network (red de area local) que hace referencia a la red que conecta dispositivos dentro de una zona geográfica determinada. 
 
 Un **ejemplo** de LAN es una vivienda, una oficina o un colegio.
