@@ -1,5 +1,7 @@
 # Fundamentos
 
+![Ejemplo red informática](https://ibb.co/zV2sYZRJ)
+
 ## ¿Qué es una red informática?
 
 Una red informática hace referencia a un conjunto de dispositivos conectados entre sí capaces de compartir información y recursos.
