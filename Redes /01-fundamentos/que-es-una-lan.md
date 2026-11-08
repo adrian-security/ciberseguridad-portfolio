@@ -9,8 +9,8 @@ Un **ejemplo** de LAN es una vivienda, una oficina o un colegio.
 **Ejemplo práctico:** tu casa.
 
 Imagina que tienes:
-    un ordenador,
-    una televisión,
+un ordenador,
+una televisión,
 una Nintendo Switch, 
 un teléfono móvil, 
 una impresora.
