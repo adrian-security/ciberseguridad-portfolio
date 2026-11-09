@@ -76,3 +76,21 @@ Tu navegador interpreta la información recibida y muestra el contenido.
 > * **`Servidor`** — Proporciona información.
 > * **`Solicitud`** — Petición del cliente.
 > * **`Respuesta`** — Información que devuelve el servidor.
+
+
+## 4. ¿Qué es el modelo cliente-servidor?
+Es una arquitectura de comunicación en la que los clientes solicitan servicios y los servidores los proporcionan.
+
+Por ejemplo, una empresa puede tener:
+* 50 ordenadores de trabajadores.
+* Un servidor de archivos.
+* Un servidor de correo.
+* Un servidor de autenticación.
+* Un servidor web.
+
+Los trabajadores utilizan sus ordenadores para solicitar información a esos servidores.
+
+[![Modelo-Cliente-servidor.jpg](https://i.postimg.cc/KzqXpGxx/Modelo-Cliente-servidor.jpg)](https://postimg.cc/jw7kLrDF)
+
+
+
