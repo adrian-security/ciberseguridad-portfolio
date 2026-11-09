@@ -53,9 +53,8 @@ Se utiliza DNS para encontrar la dirección IP asociada al dominio.
 
 Tu ordenador se comunica con el servidor utilizando los protocolos correspondientes. Por ejemplo, TCP y TLS en una conexión HTTPS tradicional.
 
-### Paso 4. El servidor procesa la solicitud.
-
-El servidor recibe la petición y prepara la respuesta.
+(TCP: permite establecer una comunicación fiable entre los equipos.
+TLS: protege la comunicación mediante cifrado y autenticación)
 
 ### Paso 4. El servidor procesa la solicitud.
 
@@ -91,6 +90,38 @@ Por ejemplo, una empresa puede tener:
 Los trabajadores utilizan sus ordenadores para solicitar información a esos servidores.
 
 [![Modelo-Cliente-servidor.jpg](https://i.postimg.cc/KzqXpGxx/Modelo-Cliente-servidor.jpg)](https://postimg.cc/jw7kLrDF)
+
+Esto permite centralizar servicios, administrar permisos y controlar el acceso a la información.
+
+## 5. ¿Puede un dispositivo ser cliente y servidor?
+
+Sí. Un mismo dispositivo puede actuar como cliente o como servidor dependiendo de la función que esté realizando.
+
+**Ejemplo:**
+
+Imagina que tu ordenador:
+* Accede a Google para consultar información. En este caso actúa como cliente.
+*Comparte una carpeta con otro ordenador de tu red. En este caso puede actuar como servidor de archivos.
+
+Por tanto, cliente y servidor no son necesariamente dos tipos diferentes de ordenadores, sino dos funciones dentro de una comunicación.
+
+## 6. Relación con la ciberseguridad
+
+Los servidores son elementos importantes en la seguridad informática porque almacenan información y proporcionan servicios a otros equipos.
+
+Algunas amenazas habituales son:
+
+* **Fuerza bruta:** intentar acceder probando muchas contraseñas.
+* **DoS:** intentar dejar un servicio fuera de funcionamiento mediante una gran cantidad de peticiones.
+* **Explotación de vulnerabilidades:** aprovechar fallos de seguridad para acceder o alterar un sistema.
+* **Acceso no autorizado:** entrar en un servicio sin tener permisos.
+
+Un analista SOC puede investigar:
+* Qué dirección IP realiza una conexión.
+* A qué servidor se conecta.
+* Qué puerto utiliza.
+* Si existen intentos de acceso sospechosos.
+* Si el comportamiento de la conexión es habitual.
 
 
 
