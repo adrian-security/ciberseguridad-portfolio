@@ -69,6 +69,7 @@ Envía los datos solicitados al cliente.
 
 Tu navegador interpreta la información recibida y muestra el contenido.
 
+
 > 🔒 **Recordatorio:**
 * Cliente = solicita información.
 * Servidor = proporciona información.
