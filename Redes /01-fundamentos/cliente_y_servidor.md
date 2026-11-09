@@ -29,3 +29,49 @@ Algunos ejemplos:
 | **Servidor de autenticación** | Gestiona la identificación de usuarios. |
 
 > 🔒 **Una cosa importante:** un servidor no tiene por qué ser un ordenador enorme en un centro de datos. Puede ser un ordenador normal ejecutando un programa que ofrece servicios a otros equipos.
+
+## 3. ¿Cómo se comunican un cliente y un servidor?
+Vamos a responder a partir de un ejemplo que hacemos todos los días: visitar una página web.
+
+Imagina que queremos acceder a Amazon desde el navegador:
+
+www.amazon.es
+
+¿Qué sucede?
+
+[![Cliente-servidor.jpg](https://i.postimg.cc/9fdgwxsR/Cliente-servidor.jpg)](https://postimg.cc/QBMJRq8h)
+
+### Paso 1. El cliente realiza una solicitud.
+
+Tu navegador solicita acceder a la página web.
+
+### Paso 2. Se localiza el servidor.
+
+Se utiliza DNS para encontrar la dirección IP asociada al dominio.
+
+### Paso 3. Se establece la comunicación. 
+
+Tu ordenador se comunica con el servidor utilizando los protocolos correspondientes. Por ejemplo, TCP y TLS en una conexión HTTPS tradicional.
+
+### Paso 4. El servidor procesa la solicitud.
+
+El servidor recibe la petición y prepara la respuesta.
+
+### Paso 4. El servidor procesa la solicitud.
+
+El servidor recibe la petición y prepara la respuesta.
+
+### Paso 5. El servidor responde.
+
+Envía los datos solicitados al cliente.
+
+### Paso 6. El navegador muestra la página.
+
+Tu navegador interpreta la información recibida y muestra el contenido.
+
+> 🔒 **Recordatorio:**
+* Cliente = solicita información.
+* Servidor = proporciona información.
+* Solicitud = petición del cliente.
+* Respuesta = información que devuelve el servidor.
+
