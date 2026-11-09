@@ -39,7 +39,7 @@ www.amazon.es
 
 ¿Qué sucede?
 
-[![Cliente-servidor.jpg](https://i.postimg.cc/9fdgwxsR/Cliente-servidor.jpg)](https://postimg.cc/QBMJRq8h)
+[![Cliente-servidor.jpg](https://i.postimg.cc/tRcQh4Bh/Cliente-servidor.jpg)](https://postimg.cc/mh754BfD)
 
 ### Paso 1. El cliente realiza una solicitud.
 
