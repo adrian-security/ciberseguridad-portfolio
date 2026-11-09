@@ -70,9 +70,9 @@ Envía los datos solicitados al cliente.
 Tu navegador interpreta la información recibida y muestra el contenido.
 
 
-> 🔒 **Recordatorio:**
-* Cliente = solicita información.
-* Servidor = proporciona información.
-* Solicitud = petición del cliente.
-* Respuesta = información que devuelve el servidor.
-
+> 🔒 **Conceptos clave:**
+> 
+> * **`Cliente`** — Solicita información.
+> * **`Servidor`** — Proporciona información.
+> * **`Solicitud`** — Petición del cliente.
+> * **`Respuesta`** — Información que devuelve el servidor.
