@@ -1,4 +1,4 @@
-# Internet
+# ¿Qué es internet?
 
 [![Internet.jpg](https://i.postimg.cc/28NsZpXM/9B43D489-0700-4405-86CA-C39ED398D351.jpg)](https://postimg.cc/7bXsFR4n)
 
@@ -24,3 +24,35 @@ Recibes la respuesta en tu navegador.
 
 ---
 > 🔒 **Concepto importante:** Internet es una red de redes que permite la comunicación entre dispositivos de todo el mundo.
+
+# ¿Qué es intranet?
+
+[![Intranet.jpg](https://i.postimg.cc/htfGc3vw/Intranet.jpg)](https://postimg.cc/dhcF968m)
+
+Una intranet es una red privada utilizada por una organización para compartir información, recursos y servicios exclusivamente con usuarios autorizados.
+
+A diferencia de Internet, una intranet está diseñada para uso interno.
+
+## Ejemplo práctico:
+
+Imagina que trabajas en un aeropuerto.
+
+La organización puede tener una intranet donde los trabajadores acceden a:
+- Documentación interna.
+- Procedimientos de seguridad.
+- Horarios y turnos.
+- Comunicaciones internas.
+- Aplicaciones de gestión.
+- Información de empleados.
+Estos recursos no están disponibles para cualquier persona de Internet.
+
+## ¿Cómo se protege una intranet?
+
+Puede utilizar:
+- Usuarios y contraseñas.
+- Sistemas de autenticación.
+- Permisos de acceso.
+- Firewalls.
+- VPN.
+- Segmentación de redes.
+Concepto importante: una intranet es una red privada destinada a los miembros autorizados de una organización.
