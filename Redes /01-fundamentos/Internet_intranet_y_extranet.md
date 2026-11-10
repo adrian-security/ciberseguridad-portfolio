@@ -20,5 +20,7 @@ Tu router permite la comunicación con otras redes.
 La petición viaja a través de Internet.
 Llega a los sistemas de Google.
 Recibes la respuesta en tu navegador.
-Concepto importante: Internet es una red de redes que permite la comunicación entre dispositivos de todo el mundo.
 
+
+---
+> 🔒 **Concepto importante:** Internet es una red de redes que permite la comunicación entre dispositivos de todo el mundo.
