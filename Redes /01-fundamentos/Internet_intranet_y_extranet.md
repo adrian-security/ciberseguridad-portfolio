@@ -87,7 +87,7 @@ Los proveedores pueden acceder a esos servicios, pero no a toda la información 
 | :--- | :--- | :--- | :--- |
 | **Acceso** | Público en general | Usuarios internos autorizados | Usuarios externos autorizados |
 | **Tipo** | Pública | Privada | Privada con acceso externo |
-| **Usuarios** | Cualquier persona | Trabajadores | Proveedores, clientes y colaboradores |
+| **Usuarios** |  Cualquier persona | Trabajadores | Proveedores, clientes y colaboradores |
 | **Ejemplo** | Google | Portal interno de una empresa | Portal de proveedores |
 
 
