@@ -87,11 +87,57 @@ Los proveedores pueden acceder a esos servicios, pero no a toda la información 
 | :--- | :--- | :--- | :--- |
 | **Acceso** | Público en general | Usuarios internos autorizados | Usuarios externos autorizados |
 | **Tipo** | Pública | Privada | Privada con acceso externo |
-| **Usuarios** | cualquier persona | Trabajadores | Proveedores, clientes y colaboradores |
+| **Usuarios** | Cualquier persona | Trabajadores | Proveedores, clientes y colaboradores |
 | **Ejemplo** | Google | Portal interno de una empresa | Portal de proveedores |
 
+# 5. ¿Qué relación tiene con la ciberseguridad?
+Este apartado es especialmente importante para comprender cómo se protegen las redes de una organización.
 
+Imaginemos una empresa que dispone de:
+- Una **intranet** para sus empleados.
+- Una **extranet** para sus proveedores.
+- Una conexión a **Internet** para sus servicios y comunicaciones.
 
+## ¿Qué ataques podrían producirse?
+
+**1. Ataques a servicios expuestos en Internet**
+
+Un atacante podría intentar:
+- Buscar servicios expuestos.
+- Escanear puertos para identificar servicios disponibles.
+- Explotar vulnerabilidades de los sistemas.
+
+**2. Ataques a una intranet**
+
+Si un atacante consigue acceder a la red interna, podría intentar:
+- Robar las credenciales de un trabajador.
+- Acceder a información interna.
+- Moverse lateralmente por la red para alcanzar otros equipos o servidores.
+
+**3. Ataques a una extranet**
+
+Si un atacante compromete la cuenta de un proveedor, podría intentar:
+- Acceder a información compartida.
+- Consultar documentos sin autorización.
+- Aprovechar permisos excesivos para intentar acceder a otros sistemas.
+
+## ¿Cómo podemos proteger estas redes?
+
+Una organización debe controlar quién puede acceder a cada recurso y qué permisos tiene.
+
+Para ello puede utilizar:
+- Firewalls.
+- Sistemas de autenticación.
+- Control de permisos.
+- VPN.
+- Segmentación de redes.
+- Monitorización de conexiones.
+
+> 🔒 **Concepto clave: mínimo privilegio**
+>
+> Cada usuario debe tener únicamente los permisos necesarios para realizar su trabajo, evitando que pueda acceder a información o sistemas que no necesita.
+
+Este principio ayuda a reducir los riesgos en caso de que una cuenta sea comprometida.
 
 
 
