@@ -1,4 +1,4 @@
-# ¿Qué es internet?
+# 1. ¿Qué es Internet?
 
 [![Internet.jpg](https://i.postimg.cc/28NsZpXM/9B43D489-0700-4405-86CA-C39ED398D351.jpg)](https://postimg.cc/7bXsFR4n)
 
@@ -21,11 +21,10 @@ La petición viaja a través de Internet.
 Llega a los sistemas de Google.
 Recibes la respuesta en tu navegador.
 
-
 ---
 > 🔒 **Concepto importante:** Internet es una red de redes que permite la comunicación entre dispositivos de todo el mundo.
 
-# ¿Qué es intranet?
+# 2. ¿Qué es intranet?
 
 [![Intranet.jpg](https://i.postimg.cc/htfGc3vw/Intranet.jpg)](https://postimg.cc/dhcF968m)
 
@@ -55,4 +54,66 @@ Puede utilizar:
 - Firewalls.
 - VPN.
 - Segmentación de redes.
-Concepto importante: una intranet es una red privada destinada a los miembros autorizados de una organización.
+
+---
+> 🔒 **Concepto importante:** una intranet es una red privada destinada a los miembros autorizados de una organización.
+
+# 3. ¿Qué es una extranet?
+
+[![Extranet.jpg](https://i.postimg.cc/MpmXsjct/Extranet.jpg)](https://postimg.cc/TKhR11JW)
+
+Una extranet es una extensión de la intranet que permite dar acceso limitado a usuarios externos autorizados, como proveedores, clientes o empresas colabordoras.
+Es decir, una organización permite que personas ajenas a ella accedan a determinados recursos internos, pero no a toda su red.
+
+## Ejemplo práctico:
+
+Imagina una empresa que trabaja con varios proveedores. 
+
+La empresa tiene una intranet para sus empleados, pero también dispone de un portal donde da acceso a proveedores, pudiendo realizar diferentes acciones como:
+
+- Consultar pedidos.
+- Subir facturas.
+- Revisar documentación.
+- Consultar el estado de entregas.
+
+Los proveedores pueden acceder a esos servicios, pero no a toda la información interna de la empresa.
+
+---
+> 🔒 **Concepto importante:** una extranet permite compartir determinados recursos de una organización con personas externas autorizadas.
+
+# 4. Diferencias entre Internet, intranet y extranet
+
+| Característica | Internet | Intranet | Extranet |
+| :--- | :--- | :--- | :--- |
+| **Acceso** | Público en general | Usuarios internos autorizados | Usuarios externos autorizados |
+| **Tipo** | Pública | Privada | Privada con acceso externo |
+| **Usuarios** | Cualquier persona | Trabajadores | Proveedores, clientes y colaboradores |
+| **Ejemplo** | Google | Portal interno de una empresa | Portal de proveedores |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
