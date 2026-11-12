@@ -6,13 +6,14 @@ En una red domestica, existen multitud de dispositivos conectados a la red, como
 ## 2. Los principales dispositivos de red
 
 ### 2.1. Tarjeta de red (NIC)
-![tarjeta de red](tarjeta-de-red.png)
+
+![tarjeta de red](images/tarjeta-de-red.png)
 
 NIC significa  *_Netwok Interface Card_*
 
 La tarjeta de red es el encargado de permitir que un dispositivo se conecte a una red.
 
-Puede ser_
+Puede ser:
 
 - Ethernet: conexión mediante cable.
 - Wi-Fi: conexión inálambrica.
@@ -22,7 +23,7 @@ Puede ser_
 **Relación con la ciberseguridad:** permite identificar interfaces de red, direcciones MAC y direciones IP.
 
 ### 2.2.  Switch (conmutador)
-![switch](switch.jpg)
+![switch](images/switch.jpg)
 
 Un switch permite conectar varios dispositivos dentro de una misma red local (LAN).
 
@@ -40,7 +41,7 @@ El switch recibe los datos y los envía al dispositivo correspondiente utilizand
 
 ### 2.3. Router (enrutador)
 
-![Router](Router.jpg)
+![Router](images/Router.jpg)
 
 El router conecta diferentes redes y dirige los paquetes de datos hacia su destino.
 
@@ -55,4 +56,4 @@ Por ejemplo:
 
 ### 2.4. Punto de acceso (Access Point o AP)
 
-![Punto de acceso](Punto-de-acceso.jpg)
+![Punto de acceso](images/Punto-de-acceso.jpg)
