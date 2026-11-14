@@ -1,6 +1,6 @@
 # ¿Qué es una WLAN?
 
-[![Ejemplo WLAN](https://i.postimg.cc/g2TvTR1v/049B6AF7-4FF0-49AF-B402-4CEA0E95517D.jpg)](https://postimg.cc/mP7zccLD)
+[![IMG-3867.jpg](https://i.postimg.cc/MTNYS8vg/IMG-3867.jpg)](https://postimg.cc/CBC8GXC4)
 
 Una **WLAN** o lo que es lo mismo, Wireles Local Area Network (red de area local inalámbrica) es una red LAN que utiliza ondas de radio o de radiofrecuencia para conectar dispositivos sin necesidad de cables. Normalmente a traves de Wi-Fi.
 
